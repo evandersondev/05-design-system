@@ -1,0 +1,6 @@
+{
+  "extends": "@evan-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ],
+}

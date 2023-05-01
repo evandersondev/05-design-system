@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@evan-ui/eslint-config"
+  ]
+}
