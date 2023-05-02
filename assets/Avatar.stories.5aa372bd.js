@@ -1,0 +1,2 @@
+import{A as t}from"./index.c18b048b.js";import"./index.2742b072.js";import"./iframe.e9647301.js";import"./index.0b66a057.js";import"./jsx-runtime.b86ecebc.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/evandersondev.png",alt:"Evanderson Vasconcelos"},argTypes:{src:{control:{type:"text"}}}},i={},n={args:{src:void 0}},p=["Primary","WithFallback"];export{i as Primary,n as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.5aa372bd.js.map
